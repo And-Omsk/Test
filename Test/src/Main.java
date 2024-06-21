@@ -6,9 +6,10 @@ public class Main {
             for (int i = 1; i <= 5; i++) {
                 System.out.println("--------------- I=" + i);
                 System.out.println("Сложение " + calk.slogenie(2.3, i));
+                //DDDDDDDDDDDDDDDDDDDDDDDDDDDD
                 System.out.println("Разность " + calk.raznost(15., i));
                 calk.delenie(12, i);
-                calk.umnog(2, i);
+                calk.umnog(2, i); // jhhghgjkhkhk
             }
 
     }
